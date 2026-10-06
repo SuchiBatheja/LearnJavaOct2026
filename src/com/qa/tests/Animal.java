@@ -1,6 +1,6 @@
 package com.qa.tests;
 
- class Animal {
+ class Animal  {
 
 	void eat() {
 		
